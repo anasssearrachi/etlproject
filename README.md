@@ -23,7 +23,7 @@ UCI Online Retail Dataset — 500 000+ transactions retail
 ## Lancement rapide
 
 ```bash
-git clone https://github.com/anassearrachi/etlproject
+git clone https://github.com/anasssearrachi/etlproject
 cd etl-retail-kafka-spark-powerbi
 cp .env.example .env
 # Ajouter le chemin de ton CSV dans .env
