@@ -5,9 +5,6 @@ projet etl
 Pipeline ETL streaming end-to-end entièrement dockerisé,
 traitant des données retail en temps réel.
 
-## Architecture
-
-![Architecture](docs/architecture.png)
 
 ## Stack technique
 - **Apache Kafka** — message broker, découplage source/traitement
@@ -44,4 +41,3 @@ docker-compose up --build -d
 - Agrégations : CA par pays, top produits, KPIs globaux, stats horaires
 
 
-...
